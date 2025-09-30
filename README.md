@@ -12,11 +12,10 @@ This project was created while I was learning web development fundamentals - HTM
 - **Responsive design principles**
 
 
-
 # To run this project locally:
 
 ## Clone the repository
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/Nahindoesnotlikecoding/Tic-Tac-Toe.git
 
 ## Navigate to the project directory
 cd tic-tac-toe
