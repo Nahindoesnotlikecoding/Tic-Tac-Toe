@@ -20,5 +20,5 @@ git clone https://github.com/Nahindoesnotlikecoding/Tic-Tac-Toe.git
 ## Navigate to the project directory
 cd tic-tac-toe
 
-## Open the game in your browser
-open index.html
+## Finally, Open the game in your browser
+start index.html (Windows)
